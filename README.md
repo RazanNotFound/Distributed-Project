@@ -1,4 +1,9 @@
 # Distributed-Project
+
+- This assignment explores the MapReduce methodology for analyzing student grades using the ”UniversityCoursesGrades” dataset. The dataset is provided in the file coursegrades.txt, where each line follows the format:
+  ####  (Year, Course Name, Student Grade, University Name)
+- Each value is separated by a comma.
+
 1. [ ] Task 1: Average Grade per Course
   Find the average grade for each course and determine which course has the highest average.
   - Mapper:
