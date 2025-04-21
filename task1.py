@@ -1,7 +1,5 @@
-# Importing the base class MRJob from the mrjob library
 from mrjob.job import MRJob
 
-# Define a class that inherits from MRJob to perform MapReduce
 class CourseAverageGrade(MRJob):
 
     # The mapper function processes each line of input
